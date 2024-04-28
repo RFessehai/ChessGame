@@ -1,1 +1,1 @@
-Run Main JAVA Class in your intelliJ application
+Run Main JAVA Class in your IntelliJ application
